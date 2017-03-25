@@ -27,3 +27,17 @@
 *.exe
 *.out
 *.app
+
+# Eclipse shit
+.project
+.cproject
+.settings
+.metadata/
+
+#CMake things
+CMakeCache.txt
+Makefile
+CMakeFiles/
+Debug/
+bin/
+cmake_install.cmake
